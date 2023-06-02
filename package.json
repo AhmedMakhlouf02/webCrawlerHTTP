@@ -4,8 +4,8 @@
   "description": "project for learn http course",
   "main": "main.js",
   "scripts": {
-    "startd": "",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "startd": "node main.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",

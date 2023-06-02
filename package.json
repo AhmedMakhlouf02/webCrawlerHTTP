@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "project for learn http course",
+  "main": "main.js",
+  "scripts": {
+    "startd": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedMakhlouf02/webCrawlerHTTP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedMakhlouf02/webCrawlerHTTP/issues"
+  },
+  "homepage": "https://github.com/AhmedMakhlouf02/webCrawlerHTTP#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}

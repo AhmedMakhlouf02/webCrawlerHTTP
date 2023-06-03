@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/AhmedMakhlouf02/webCrawlerHTTP#readme",
   "dependencies": {
+    "jsdom": "^22.1.0"
+  },
+  "devDependencies": {
     "jest": "^29.5.0"
   }
 }
